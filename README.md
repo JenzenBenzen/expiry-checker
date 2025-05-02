@@ -25,4 +25,4 @@ Designed for visually impaired users with:
 ## Author
 
 👤 Jens Oudhoff  
-🎓 Freizeitprojekt – barrierefreie Lebensmittelerkennung
+🎓 Spare-Time project
